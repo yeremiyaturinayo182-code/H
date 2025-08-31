@@ -1,4 +1,4 @@
-game.Players.LocalPlayer
+LocalPlayer
 local gui = Instance.new("ScreenGui", player.PlayerGui)
 gui.Name = "ScriptHubGui"
 
